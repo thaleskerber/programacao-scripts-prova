@@ -1,3 +1,5 @@
-### Prova tipo B
+### Avaliação de Programação de Scripts
 
-Fazer uma aplicação front-end para persistir os registros de UF. A aplicação deverá consumir o back-end disponível em https://github.com/arleysouza/prova-b-back.
+Avaliação realizada para a disciplina de Programação de Scripts, desenvolvida com React por styled components. O objetivo da aplicação foi de consumir uma api para o registro de Letras e a quantidade de cliques em cada letra.
+
+Backend disponível em: https://github.com/arleysouza/prova-b-back.
